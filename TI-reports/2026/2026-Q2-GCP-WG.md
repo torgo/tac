@@ -10,6 +10,8 @@ This has been running since January 2025, after the Linux Foundation workshop on
 
 Recenty at Open Source Summit North America, the group ran a "hybrid" f2f meeting ... 
 
+We were greatly honored that the OpenSSF team saw fit to create a physical version of a "CRA-Fish" mascot. ...
+
 We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Roman Zhukov | Red Hat](https://github.com/rozhukov). [Megan Knight | Arm](https://github.com/businesscasualkesha) chairs the Awareness SIG and [Madalin Neag](https://github.com/madalinnneag) from OpenSSF staff chairs the Standards SIG. In addition, we have support from [Jeff Diecks](https://github.com/GeauxJD), [Crob](https://github.com/SecurityCRob) and [David A. Wheeler](https://github.com/david-a-wheeler).
 
 We also operate the "EU CRA Monthly Tech Talk".
