@@ -98,6 +98,6 @@ Minutes available here: [SIG Minutes Document](https://docs.google.com/document/
 
 ## Questions/Issues for the TAC
 
-None at this time.
+We see growing interest to our WG from manufacturers and other community members based in APAC (Japan, Korea, etc.) to the CRA but also beyond. We experience challenges with the time zones difference and would like to get a piece of advise how to keep balance between scheduling a ton of extra calls but also make sure we are engaging with contributors across the globe.
 
 ## Additional Information
