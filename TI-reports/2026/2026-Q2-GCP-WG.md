@@ -31,6 +31,7 @@ Since our last report
 - we held 1 CRA Tech Talk on Conformity and Certification, next one upcoming - Maintainers Guide
 - we published [2 new CRA blogs](https://policy.openssf.org/CRA/maintainers.html) by CRob and Madalin, a lot more in the pipeline thanks to Sal
 - we do comprehensive bi-weekly update on CRA standards, policy developments, collect and submit community feedback for open consultations (https://openssf.org/category/policy/cra/), thanks to Madalin
+- we maintain and constantly update our pages: https://openssf.org/public-policy/eu-cyber-resilience-act/ & https://policy.openssf.org/CRA/ as a one-stop-shop to learn what's hapenning around the CRA
 - Upcoming soon: 2026 CRA Report with amazing implementation insights and foreword from us
 - we support dedicated events like The European Open Source Security Forum and The Open Source Policy & Ecosystem Forum
 
