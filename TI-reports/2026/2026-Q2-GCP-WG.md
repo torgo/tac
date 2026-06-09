@@ -57,7 +57,27 @@ Activities and Publications:
 
 The Standards SIG is led by [Madalin Neag](https://github.com/madalinnneag).
 
-[this all needs an edit]
+The mission of the Standardization SIG has been to coordinate stakeholder engagement on cybersecurity standards related to policy, with a focus on raising awareness of standards development activities connected to the CRA. The SIG has also monitored complementary standards initiatives and policy developments to ensure members maintain visibility into the evolving regulatory and standardization landscape.
+
+The group has supported the involvement of OpenSSF members and staff in standards activities by serving as a coordination forum to guide engagement strategies across European Standards Organizations (ESOs) and other SDOs, particularly where confidentiality practices differ from those typically used in open source communities. Through this coordination, OpenSSF representatives have enabled participation by sharing knowledge and updates, advocating for open source values, and coordinating community-level feedback on key deliverables, including the [CEN](https://www.cencenelec.eu/about-cen/) horizontal standards (such as PT1 and PT3 - see [standards map](https://policy.openssf.org/CRA/standards.html) for detail).
+
+Here we store the Standardization SIG presentations: https://github.com/ossf/wg-globalcyberpolicy/tree/main/docs/CRA/presentations/standardization-sig/
+
+As an OpenSSF community, we responded to the following public consultations: 
+
+- [Public Consultation on the NIS 2 Directive](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/F33400854_en)
+- [Public Consultation on the EU Cybersecurity Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/F33400612_en)
+- [Draft Commission guidance on the Cyber Resilience Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16959-Draft-Commission-guidance-on-the-Cyber-Resilience-Act/F33390215_en)
+- [European Open Digital Ecosystem Strategy](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16213-European-Open-Digital-Ecosystems/F33370575_en)
+- [Public Procurement Directive revision](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15492-EU-public-procurement-rules-revision/F33368454_en)
+- [Public Consultation on the proposal for a revision of Regulation (EU) No 1025/2012](https://drive.google.com/file/d/107UfUKJJ3lhT0n-GoK2cbYUNsnEQtkGx/view?usp=sharing)
+- [ENISA Technical Advisory for Secure Use of Package Managers](https://drive.google.com/file/d/1kaU470ZqtXxbXU4BRdbVwakMSCCd9hQy/view?usp=sharing)
+- [SBOM Landscape Analysis – Towards an Implementation Guide](https://drive.google.com/file/d/1jRrT7iw3irIm1tuQvDfyWj9tedc3U0b4/view?usp=sharing)
+- [RED DA Repeal ](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14766-Cybersecurity-repeal-of-Delegated-Regulation-supplementing-the-Radio-Equipment-Directive/F33363045_en)
+- [ENISA Survey on SBOM State of the Art](https://drive.google.com/file/d/1OXxdngIc8Rtys4BhP8kgO8aAsJFihhCH/view?usp=sharing)
+- [Call for evidence for Digital Omnibus](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14855-Simplification-digital-package-and-omnibus/F33088470_en)
+
+Minutes available here: [SIG Minutes Document](https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/view?tab=t.0).```
 
 The mission of the Standardization SIG has been to coordinate stakeholder engagement on cybersecurity standards related to policy, with a focus on raising awareness of standards development activities connected to the CRA. The SIG has also monitored complementary standards initiatives and policy developments to ensure members maintain visibility into the evolving regulatory and standardization landscape.
 
