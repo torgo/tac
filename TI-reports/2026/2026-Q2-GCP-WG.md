@@ -29,6 +29,7 @@ Since our last report
 - we developed [CRA Guidelines for Maintainers and Developers](https://policy.openssf.org/CRA/maintainers.html) which is getting adoption (1 example - by Sylva project)
 - we're doing a "CRA Roadshow" for communities to help navigating CRA, recently - for Yocto project and its members with an amazing feedback afterwards
 - we held 1 CRA Tech Talk on Conformity and Certification, next one upcoming - Maintainers Guide
+- The new 2026 CRA Awareness and Readiness Report is out highlighting unfamiliarity (still) with the CRA with only 41% of manufacturers expect to be fully compliant by December 2027 as well as the $250k cost of maintaining private forks.
 - we published [2 new CRA blogs](https://policy.openssf.org/CRA/maintainers.html) by CRob and Madalin, a lot more in the pipeline thanks to Sal
 - we do comprehensive bi-weekly update on CRA standards, policy developments, collect and submit community feedback for open consultations (https://openssf.org/category/policy/cra/), thanks to Madalin
 - we maintain and constantly update our pages: https://openssf.org/public-policy/eu-cyber-resilience-act/ & https://policy.openssf.org/CRA/ as a one-stop-shop to learn what's hapenning around the CRA
