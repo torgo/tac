@@ -39,8 +39,6 @@ Since our last report
 
 The awareness SIG is led by [Megan Knight](https://github.com/businesscasualkesha) of Arm. The scope is activities that drive awareness of the work of this group and of the regulatory landscape in general. The SIG has been marshalling blog posts and the upcoming conference schedule. The Awareness SIG minutes are kept in the [main working group minutes document](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit). 
 
-Activities and Publications: 
-* xx
 
 ## Standards SIG
 
