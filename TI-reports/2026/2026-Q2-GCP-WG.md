@@ -33,18 +33,6 @@ Since our last report
 - we do comprehensive bi-weekly update on CRA standards, policy developments, collect and submit community feedback for open consultations (https://openssf.org/category/policy/cra/), thanks to Madalin
 - we maintain and constantly update our pages: https://openssf.org/public-policy/eu-cyber-resilience-act/ & https://policy.openssf.org/CRA/ as a one-stop-shop to learn what's hapenning around the CRA
 - Upcoming soon: 2026 CRA Report with amazing implementation insights and foreword from us
-- we support dedicated events like The European Open Source Security Forum and The Open Source Policy & Ecosystem Forum
-
-
-[all needs an edit]
-
-* we held xx tech talks:
-
-* Something about maintainers guidelines
-
-* We have sent out numerous updates on activities in relevant standards organizations, and produced a [CRA Standards Map](https://policy.openssf.org/CRA/standards.html).
-
-* We have produced xx [blog posts](https://openssf.org/category/policy/cra/) .
 
 ## Awareness SIG
 
