@@ -80,19 +80,6 @@ The SIG's main work this year has been on raising awareness of relevant standard
 
 The SIG's main work this year has been on raising awareness of relevant standards efforts, disseminating information to members about these efforts, and highligting when public consultations are open / helping members participate in these consultations.
 
-- We have supplied answers to the following public consultations: 
-  * [Public Consultation on the NIS 2 Directive](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/F33400854_en)
-  * [Public Consultation on the EU Cybersecurity Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/F33400612_en)
-  * [Draft Commission guidance on the Cyber Resilience Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16959-Draft-Commission-guidance-on-the-Cyber-Resilience-Act/F33390215_en)
-  * [European Open Digital Ecosystem Strategy](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16213-European-Open-Digital-Ecosystems/F33370575_en)
-  * [Public Procurement Directive revision](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15492-EU-public-procurement-rules-revision/F33368454_en)
-  * [Public Consultation on the proposal for a revision of Regulation (EU) No 1025/2012](https://drive.google.com/file/d/107UfUKJJ3lhT0n-GoK2cbYUNsnEQtkGx/view?usp=sharing)
-  * [ENISA Technical Advisory for Secure Use of Package Managers](https://drive.google.com/file/d/1kaU470ZqtXxbXU4BRdbVwakMSCCd9hQy/view?usp=sharing)
-  * [SBOM Landscape Analysis – Towards an Implementation Guide](https://drive.google.com/file/d/1jRrT7iw3irIm1tuQvDfyWj9tedc3U0b4/view?usp=sharing)
-  * [RED DA Repeal ](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14766-Cybersecurity-repeal-of-Delegated-Regulation-supplementing-the-Radio-Equipment-Directive/F33363045_en)
-  * [ENISA Survey on SBOM State of the Art](https://drive.google.com/file/d/1OXxdngIc8Rtys4BhP8kgO8aAsJFihhCH/view?usp=sharing)
-  * [Call for evidence for Digital Omnibus](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14855-Simplification-digital-package-and-omnibus/F33088470_en)
-Minutes available here: [SIG Minutes Document](https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/view?tab=t.0).
 
 ## Questions/Issues for the TAC
 
