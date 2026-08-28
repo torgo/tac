@@ -10,7 +10,7 @@ This has been running since January 2025, after the Linux Foundation workshop on
 
 At Open Source Summit North America, the group ran a "hybrid" f2f meeting where community members raised concerns about manufacturer awareness and the regulatory burden on open source projects, which we need to address more actively. Since then, some members from our Japanese chapter have become more active in the group, highlighting the global nature of this effort. This group of Japanese organizations produced a list of questions concerning the distinction between stewards and manufacturers under the CRA, for which a first set of draft answers has been provided. GCP WG views this as an opportunity to facilitate and document international CRA use-cases as part of our playbooks.
 
-At the upcoming Open Source Summit Europe in Prague, we intend to run a 90 minute CRA workshop for enterprise engineers, security officers, stewards, open source developers to stress-test real-world CRA challenges, including CRA personas across varying PDE classifications, due diligence, SBOMs, vulnerability management and reporting obligations.
+At the upcoming Open Source Summit Europe in Prague, we intend to run a 75 minute CRA workshop for enterprise engineers, security officers, stewards, open source developers to stress-test real-world CRA challenges, including CRA personas across varying PDE classifications, due diligence, SBOMs, vulnerability management and reporting obligations.
 
 We also hope to spread more awareness of our efforts at OpenSSF Community Day Europe and Open Source Summit Europe via outreach from the OpenSSF booth, including leveraging the awesome CRAfish mascot plushie. Members of GCP WG will give talks throughout entire week.
 
@@ -24,14 +24,12 @@ We have a regular schedule of calls for our main working group as well as for ou
 
 Our general working group call, besides being a place where SIGs report, also serves as a venue to work on general deliverables and to drive awareness with group members of related activities. 
 
-This quarter, we have continued to work with the [ORBIT Launchpad](https://github.com/ossf/orbit-launchpad) effort, including facilitating a "CRA Monthly Tech Talk" focusing on ORBIT Launchpad. As noted in their charter, Cyber Policy working group is a key stakeholder and partner for ORBIT Launchpad. This work has subsumed the work that we initially conceived of as a "Tooling" SIG in our own working group.
+This quarter, we have continued to work with the [ORBIT Launchpad](https://github.com/ossf/orbit-launchpad) effort, including facilitating a "CRA Monthly Tech Talk" covering ORBIT Launchpad, its progress and its future plans. As noted in their charter, Cyber Policy working group is a key stakeholder and partner for ORBIT Launchpad. This work has subsumed the work that we initially conceived of as a "Tooling" SIG in our own working group.
 Since our last report...
 
-**[need to update this list]**
 
-- we developed [CRA Guidelines for Maintainers and Developers](https://policy.openssf.org/CRA/maintainers.html) which is getting adoption (1 example - by Sylva project)
-- we're doing a "CRA Roadshow" for communities to help navigating CRA, recently - for Yocto project and its members with an amazing feedback afterwards
-- we held 1 CRA Tech Talk on Conformity and Certification, next one upcoming - Maintainers Guide
+- we continue to do a "CRA Roadshow" for communities to help navigating CRA
+- we held 2 CRA Tech Talks, one dedicated to Launchpad SIG, and one dedicated to the upstream contributors and their role under the CRA building on our recently published Guidelines for Maintainers and Developers
 - The new 2026 CRA Awareness and Readiness Report is out highlighting unfamiliarity (still) with the CRA with only 41% of manufacturers expect to be fully compliant by December 2027 as well as the $250k cost of maintaining private forks.
 - we published [2 new CRA blogs](https://policy.openssf.org/CRA/maintainers.html) by CRob and Madalin, a lot more in the pipeline thanks to Sal
 - we do comprehensive bi-weekly update on CRA standards, policy developments, collect and submit community feedback for open consultations (https://openssf.org/category/policy/cra/), thanks to Madalin
@@ -46,6 +44,7 @@ Since our last report...
 - [CRA Guidelines for Maintainers and Developers](https://policy.openssf.org/CRA/maintainers.html) is becoming more popular and got a contribution from the actual lawyer
 - we do comprehensive bi-weekly update on CRA standards, policy developments, collect and submit community feedback for open consultations (https://openssf.org/category/policy/cra/), thanks to Madalin
 - we maintain and constantly update our pages: https://openssf.org/public-policy/eu-cyber-resilience-act/ & https://policy.openssf.org/CRA/ as a one-stop-shop to learn what's hapenning around the CRA
+- We organized the European Open Source Security Forum in Brussels, bringing together policymakers, industry representatives, and the open source community to discuss how to translate the requirements of the CRA into practical implementation."
 
 ## Awareness SIG
 
@@ -64,8 +63,9 @@ Here we store the Standardization SIG presentations: https://github.com/ossf/wg-
 
 As an OpenSSF community, we responded to the following public consultations: 
 
-**[need to update this list]**
-
+- AI act standards
+- ENISA's public consultation on their Secure Update Mechanisms Technical Advisory
+- European Interoperability Framework (EIF), complementing the Linux Foundation Europe (LFEU) submission
 - [Public Consultation on the NIS 2 Directive](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/F33400854_en)
 - [Public Consultation on the EU Cybersecurity Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/F33400612_en)
 - [Draft Commission guidance on the Cyber Resilience Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16959-Draft-Commission-guidance-on-the-Cyber-Resilience-Act/F33390215_en)
