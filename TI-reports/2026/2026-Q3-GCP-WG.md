@@ -98,6 +98,7 @@ We see growing interest to our WG from manufacturers and other community members
 
 ## Additional Information
 The progress of this group has been tracked by the governing board. Madalin has presented at GB policy committee meetings to ensure alignment with our group and the policy committee. Megan has also presented to the GB.
+
 Upcoming deliverables include:
 
 * [Manufacturer guidelines](https://docs.google.com/document/d/10wZFyWMt97-3rCd-cMBWW0KvXnOyOEPCYnen1fBvNXE/edit?tab=t.0)
