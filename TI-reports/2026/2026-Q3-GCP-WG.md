@@ -97,6 +97,14 @@ The SIG's main work this year has been on raising awareness of relevant standard
 We see growing interest to our WG from manufacturers and other community members based in APAC (Japan, Korea, etc.) to the CRA but also beyond. As well as emerging cyber- and AI- standards and regulations attempts around open source. We'd like to understand if broader OpenSSF and LF can help us with international collaborations and connections to experts and bodies in different countries beyond US and EU (like regional CIRTs, Cyber Agencies, etc.).
 
 ## Additional Information
+
+Upcoming deliverables include:
+
+* [Manufacturer guidelines](https://docs.google.com/document/d/10wZFyWMt97-3rCd-cMBWW0KvXnOyOEPCYnen1fBvNXE/edit?tab=t.0)
+* Playbook/guideline for downstream on how to engage with upstream contributors
+* White paper on OpenChain-OpenSSF interplay/alignment
+
+And more listed [here](https://docs.google.com/document/d/1dPIUfGTzzS0IQ1BYrlQSDUX0fMu-shREIFI-wMLgQ4Q/edit?tab=t.0).
 The progress of this group has been tracked by the governing board. Madalin has presented at GB policy committee meetings to ensure alignment with our group and the policy committee. Megan has also presented to the GB.
 
 
