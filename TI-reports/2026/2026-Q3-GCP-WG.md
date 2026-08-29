@@ -102,6 +102,7 @@ The progress of this group has been tracked by the governing board. Madalin has 
 
 
 
+
 Upcoming deliverables include:
 
 * [Manufacturer guidelines](https://docs.google.com/document/d/10wZFyWMt97-3rCd-cMBWW0KvXnOyOEPCYnen1fBvNXE/edit?tab=t.0)
