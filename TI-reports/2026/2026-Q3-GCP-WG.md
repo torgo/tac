@@ -14,9 +14,7 @@ At the upcoming Open Source Summit Europe in Prague, we intend to run an extende
 
 We also hope to spread more awareness of our efforts at OpenSSF Community Day Europe and Open Source Summit Europe via outreach from the OpenSSF booth, including leveraging the awesome CRAfish mascot plushie. Members of GCP WG will give talks throughout entire week.
 
-
-<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/82dc5c79-78e6-4e80-9403-139d5e473fbc" />
-
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/82dc5c79-78e6-4e80-9403-139d5e473fbc" alt="The ultra-cute CRAfish plushie."/>
 
 We have two working group co-leads: [Daniel Appelquist | Samsung](https://github.com/torgo) and [Roman Zhukov | Red Hat](https://github.com/rozhukov). [Megan Knight | Arm](https://github.com/businesscasualkesha) chairs the Awareness SIG and [Madalin Neag](https://github.com/madalinnneag) from OpenSSF staff chairs the Standards SIG. In addition, we have support from [Jeff Diecks](https://github.com/GeauxJD), [Crob](https://github.com/SecurityCRob) and [David A. Wheeler](https://github.com/david-a-wheeler).
 
@@ -27,8 +25,8 @@ We have a regular schedule of calls for our main working group as well as for ou
 Our general working group call, besides being a place where SIGs report, also serves as a venue to work on general deliverables and to drive awareness with group members of related activities. 
 
 This quarter, we have continued to work with the [ORBIT Launchpad](https://github.com/ossf/orbit-launchpad) effort, including facilitating a "CRA Monthly Tech Talk" covering ORBIT Launchpad, its progress and its future plans. As noted in their charter, Cyber Policy working group is a key stakeholder and partner for ORBIT Launchpad. This work has subsumed the work that we initially conceived of as a "Tooling" SIG in our own working group.
-Since our last report...
 
+Since our last report:
 
 - we continue to do a "CRA Roadshow" for communities to help navigating CRA
 - we held 2 CRA Tech Talks, one dedicated to Launchpad SIG, and one dedicated to the upstream contributors and their role under the CRA building on our recently published [Guidelines for Maintainers and Developers](https://policy.openssf.org/CRA/maintainers.html)
@@ -45,9 +43,10 @@ Since our last report...
 
 ## Awareness SIG
 
-The awareness SIG is led by [Megan Knight](https://github.com/businesscasualkesha) of Arm. The scope is activities that drive awareness of the work of this group and of the regulatory landscape in general. The SIG has been marshalling blog posts and the upcoming conference schedule. 
+The awareness SIG is led by [Megan Knight](https://github.com/businesscasualkesha) of Arm. The scope is activities that drive awareness of the work of this group and of the regulatory landscape in general. The SIG has been marshalling blog posts and the upcoming conference schedule and other outreach described above.
 
 The main objective of the SIG is continue to be around increasing our collaboration with other WGs and broader LF community on publications, producing materials and PR plans. This is based on the feedback that we hear from our members and in other communities on (still) lack of understanding how to approach CRA by different stakeholders.
+
 ## Standards SIG
 
 The Standards SIG is led by [Madalin Neag](https://github.com/madalinnneag).
@@ -71,13 +70,9 @@ As an OpenSSF community, we responded to the following public consultations:
 - [Public Consultation on the proposal for a revision of Regulation (EU) No 1025/2012](https://drive.google.com/file/d/107UfUKJJ3lhT0n-GoK2cbYUNsnEQtkGx/view?usp=sharing)
 - [ENISA Technical Advisory for Secure Use of Package Managers](https://drive.google.com/file/d/1kaU470ZqtXxbXU4BRdbVwakMSCCd9hQy/view?usp=sharing)
 - [SBOM Landscape Analysis – Towards an Implementation Guide](https://drive.google.com/file/d/1jRrT7iw3irIm1tuQvDfyWj9tedc3U0b4/view?usp=sharing)
-- [RED DA Repeal ](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14766-Cybersecurity-repeal-of-Delegated-Regulation-supplementing-the-Radio-Equipment-Directive/F33363045_en)
+- [RED DA Repeal](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14766-Cybersecurity-repeal-of-Delegated-Regulation-supplementing-the-Radio-Equipment-Directive/F33363045_en)
 - [ENISA Survey on SBOM State of the Art](https://drive.google.com/file/d/1OXxdngIc8Rtys4BhP8kgO8aAsJFihhCH/view?usp=sharing)
 - [Call for evidence for Digital Omnibus](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14855-Simplification-digital-package-and-omnibus/F33088470_en)
-
-The mission of the Standardization SIG has been to coordinate stakeholder engagement on cybersecurity standards related to policy, with a focus on raising awareness of standards development activities connected to the CRA. The SIG has also monitored complementary standards initiatives and policy developments to ensure members maintain visibility into the evolving regulatory and standardization landscape.
-
-The group has supported the involvement of OpenSSF members and staff in standards activities by serving as a coordination forum to guide engagement strategies across European Standards Organizations (ESOs) and other SDOs, particularly where confidentiality practices differ from those typically used in open source communities. Through this coordination, OpenSSF representatives have enabled participation by sharing knowledge and updates, advocating for open source values, and coordinating community-level feedback on key deliverables, including the [CEN](https://www.cencenelec.eu/about-cen/) horizontal standards (such as PT1 and PT3 - see [standards map](https://policy.openssf.org/CRA/standards.html) for detail).
 
 A core component of the SIG’s work has been facilitating community’s participation in public consultations related to cybersecurity standards and policy. The group has raised awareness of consultation opportunities, shared relevant information, and coordinated the consolidation of feedback so that responses reflect the collective expertise of the OpenSSF community.
 
@@ -100,17 +95,5 @@ Upcoming deliverables include:
 * White paper on OpenChain-OpenSSF interplay/alignment
 
 And more listed [here](https://docs.google.com/document/d/1dPIUfGTzzS0IQ1BYrlQSDUX0fMu-shREIFI-wMLgQ4Q/edit?tab=t.0).
+
 The progress of this group has been tracked by the governing board. Madalin has presented at GB policy committee meetings to ensure alignment with our group and the policy committee. Megan has also presented to the GB.
-
-
-
-
-
-
-Upcoming deliverables include:
-
-* [Manufacturer guidelines](https://docs.google.com/document/d/10wZFyWMt97-3rCd-cMBWW0KvXnOyOEPCYnen1fBvNXE/edit?tab=t.0)
-* Playbook/guideline for downstream on how to engage with upstream contributors
-* White paper on OpenChain-OpenSSF interplay/alignment
-
-And more listed [here](https://docs.google.com/document/d/1dPIUfGTzzS0IQ1BYrlQSDUX0fMu-shREIFI-wMLgQ4Q/edit?tab=t.0).
