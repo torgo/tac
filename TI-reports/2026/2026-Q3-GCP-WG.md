@@ -35,7 +35,6 @@ Since our last report...
 - The new 2026 CRA Awareness and Readiness Report is out highlighting unfamiliarity (still) with the CRA with only 41% of manufacturers expect to be fully compliant by December 2027 as well as the $250k cost of maintaining private forks.
 - we do comprehensive bi-weekly update on CRA standards, policy developments, collect and submit community feedback for open consultations (https://openssf.org/category/policy/cra/), thanks to Madalin
 - we maintain and constantly update our pages: https://openssf.org/public-policy/eu-cyber-resilience-act/ & https://policy.openssf.org/CRA/ as a one-stop-shop to learn what's hapenning around the CRA
-
 - we supported and contributed to [OpenChain CRA Guidance and Checklist](https://openchainproject.org/cracompliance) and continue collaborating with other communities to help navigating CRA
 - promotion and citation of the [2026 CRA Awareness and Readiness Report with a foreword from us](https://www.linuxfoundation.org/research/cra-readiness-2026?hsLang=en) highlighting only 41% of manufacturers expect to be fully compliant by December 2027 as well as the $250k cost of maintaining private forks for, and other shocking numbers
 - our members were guests at the 3 recent [What's in the SOSS Podcast](https://openssf.org/podcast/) talking about CRA practicalities (+more coming soon)
