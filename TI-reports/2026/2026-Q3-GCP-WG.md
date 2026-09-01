@@ -31,7 +31,7 @@ Since our last report...
 
 
 - we continue to do a "CRA Roadshow" for communities to help navigating CRA
-- we held 2 CRA Tech Talks, one dedicated to Launchpad SIG, and one dedicated to the upstream contributors and their role under the CRA building on our recently published Guidelines for Maintainers and Developers
+- we held 2 CRA Tech Talks, one dedicated to Launchpad SIG, and one dedicated to the upstream contributors and their role under the CRA building on our recently published [Guidelines for Maintainers and Developers](https://policy.openssf.org/CRA/maintainers.html)
 - The new 2026 CRA Awareness and Readiness Report is out highlighting unfamiliarity (still) with the CRA with only 41% of manufacturers expect to be fully compliant by December 2027 as well as the $250k cost of maintaining private forks.
 - we published [2 new CRA blogs](https://policy.openssf.org/CRA/maintainers.html) by CRob and Madalin, a lot more in the pipeline thanks to Sal
 - we do comprehensive bi-weekly update on CRA standards, policy developments, collect and submit community feedback for open consultations (https://openssf.org/category/policy/cra/), thanks to Madalin
